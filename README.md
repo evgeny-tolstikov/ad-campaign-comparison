@@ -145,8 +145,6 @@ FROM (
 ### Графики
 За ось X на обоих графиках взят день РК от D0 до D7.
 
-<br>
-
 #### Retention (D1 – D7)
 ![ad_campaign_comparison_retention](images/ad_campaign_comparison_retention.png)
 
